@@ -1,3 +1,3 @@
 FROM scratch
-COPY empty /empty
+COPY test test
 ADD VERSION .
